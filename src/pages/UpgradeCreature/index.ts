@@ -1,0 +1,1 @@
+export { UpgradeCreature } from './UpgradeCreature';

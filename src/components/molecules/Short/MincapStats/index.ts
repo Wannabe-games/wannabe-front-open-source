@@ -1,0 +1,1 @@
+export { MincapStats } from './MincapStats';

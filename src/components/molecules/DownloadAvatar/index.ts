@@ -1,0 +1,1 @@
+export { DownloadAvatar } from './DownloadAvatar';

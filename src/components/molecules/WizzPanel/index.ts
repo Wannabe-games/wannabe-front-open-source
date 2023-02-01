@@ -1,0 +1,1 @@
+export { WizzPanel } from './WizzPanel';

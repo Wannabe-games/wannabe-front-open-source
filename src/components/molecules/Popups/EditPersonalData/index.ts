@@ -1,0 +1,1 @@
+export { EditPersonalDataPopup } from './EditPersonalData';
